@@ -105,6 +105,10 @@ A Social Media & Chat Application
 
 ---
 
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/oxstranger21/oxstranger21/output/github-contribution-grid-snake-dark.svg)
+
 ## 🌐 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/oxstranger21)
