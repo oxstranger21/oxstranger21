@@ -2,7 +2,7 @@
 
 # 👨‍💻 Gopi Kumar (OxStranger21)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=FF0000&center=true&vCenter=true&width=700&lines=Android+Developer;Flutter+Developer;Cybersecurity+Enthusiast;Application+Security+Learner;Open+Source+Contributor" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=FF0000&center=true&vCenter=true&width=700&lines=Android+Developer;Flutter+Developer;Cybersecurity+Enthusia[...]
 
 ### 🚀 Developer | Hacker Mindset | Creator
 
@@ -107,7 +107,7 @@ A Social Media & Chat Application
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/oxstranger21/oxstranger21/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/oxstranger21/oxstranger21/output/github-contribution-grid-snake.svg)
 
 ## 🌐 Connect With Me
 
