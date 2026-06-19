@@ -265,7 +265,7 @@ I'm always excited to discuss:
 [![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github)](https://github.com/oxstranger21)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail)](mailto:gjmgopi21@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-1DA1F2?style=for-the-badge&logo=instagram)](https://www.instagram.com/wthstranger09?igsh=MXhyNHF4dm8yam50bQ==)
 
 </div>
 
