@@ -1,122 +1,156 @@
 <div align="center">
 
-# 👨‍💻 Gopi Kumar (OxStranger21)
+# 🔥 Gopi Kumar | OxStranger21
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=FF0000&center=true&vCenter=true&width=700&lines=Android+Developer;Flutter+Developer;Cybersecurity+Enthusia[...]
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00D9FF&center=true&vCenter=true&width=900&lines=Android+Developer+🚀;Flutter+Developer+📱;Cybersecurity+Enthusiast+🔐;Full-Stack+Developer+⚡;Ethical+Hacker+🎯)](https://github.com/oxstranger21)
 
-### 🚀 Developer | Hacker Mindset | Creator
+<p>
+  <a href="https://github.com/oxstranger21">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" />
+  </a>
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="https://twitter.com">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter" />
+  </a>
+</p>
+
+---
 
 </div>
 
----
+## 👋 About Me
 
-## 💫 About Me
+> *Crafting secure mobile applications with a hacker's mindset*
 
-🎓 B.Tech CSE (AI) Student at GIFT Autonomous, Bhubaneswar
+🎓 **B.Tech CSE (AI)** | GIFT Autonomous, Bhubaneswar  
+💼 **Full-Stack Mobile Developer** | Building innovative solutions  
+🔐 **Security-Focused** | AppSec & Ethical Hacking Enthusiast  
+🌱 **Always Learning** | NestJS, Advanced Flutter, Cloud Tech  
 
-💻 Passionate Mobile App Developer and Cybersecurity Enthusiast
-
-🔐 Interested in Application Security, Ethical Hacking, and Secure Software Development
-
-📱 Building modern Android and Flutter applications
-
-🌱 Currently learning:
-- NestJS
-- Application Security (AppSec)
-- Advanced Flutter
-- Cloud Technologies
+### 🎯 What Drives Me
+- 🚀 Building high-performance mobile applications
+- 🔒 Securing applications from the ground up
+- 💡 Creating elegant solutions to complex problems
+- 🤝 Contributing to open-source communities
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
 
-### 👨‍💻 Programming Languages
-
+### 💻 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-### 📱 Mobile Development
-
+### 📱 Mobile & Frontend
 ![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
-### ⚙️ Backend & Database
-
+### 🔧 Backend & Infrastructure
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis&logoColor=white)
 
-### 🔐 Cybersecurity & AppSec
-
-![Burp Suite](https://img.shields.io/badge/BurpSuite-FF6633?style=for-the-badge)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+### 🔐 Security & Tools
+![Burp_Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
+![Kali_Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
-### 📱 TalkHub
+### 📱 TalkHub - Social Media & Chat Platform
+> A feature-rich social communication application built with modern Android technologies
 
-A Social Media & Chat Application
+**Key Features:**
+- 🔐 Secure Authentication & Authorization
+- 💬 Real-Time Messaging
+- 📞 Audio & Video Calling (WebRTC)
+- 👥 Friend Request System
+- ❤️ Social Feed with Likes & Comments
+- 🔔 Push Notifications (FCM)
+- ☁️ Cloud Storage (Cloudinary)
 
-✨ Features:
-- Authentication
-- Social Feed
-- Likes & Comments
-- Real-Time Messaging
-- Audio Calling
-- Video Calling
-- Friend Requests
-- Push Notifications (FCM)
-- Firebase Firestore Backend
-- Cloudinary Media Storage
+**Tech Stack:**
+```
+Frontend:  Java • Android SDK • Android Architecture Components
+Backend:   Firebase • Firestore
+Media:     Cloudinary • WebRTC
+```
 
-**Tech Used:** Java, Android SDK, Firebase, Firestore, Cloudinary, WebRTC
-
----
-
-## 🏆 Certifications
-
-📜 NPTEL - Data Structures and Algorithms using Java
-
-📜 Android App Development Internship
-
-📜 Cybersecurity Internship
-
-📜 Web Application Pentesting Training
+**Links:** 
+- 🔗 [View Repository](https://github.com/oxstranger21/talkhub)
 
 ---
 
-## 📊 GitHub Stats
+## 📜 Certifications & Training
 
-![](https://github-readme-stats.vercel.app/api?username=oxstranger21&show_icons=true&theme=radical)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=oxstranger21&theme=radical)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=oxstranger21&layout=compact&theme=radical)
+| Certification | Issuer |
+|---|---|
+| 🏆 Data Structures & Algorithms using Java | NPTEL |
+| 📱 Android App Development Internship | Industry Partner |
+| 🔐 Cybersecurity Internship | Certified Program |
+| 🛡️ Web Application Pentesting Training | Advanced Security |
 
 ---
 
-## 🐍 Contribution Snake
+## 📊 GitHub Analytics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oxstranger21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oxstranger21&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oxstranger21&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
 
 ![Snake animation](https://raw.githubusercontent.com/oxstranger21/oxstranger21/output/github-contribution-grid-snake.svg)
 
-## 🌐 Connect With Me
+---
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/oxstranger21)
+## 🎯 Current Focus
+
+- 🚀 Mastering **NestJS** for scalable backend development
+- 🔒 Deepening expertise in **Application Security (AppSec)**
+- 📊 Exploring **Cloud Technologies** (AWS, GCP, Azure)
+- 💎 Building **production-grade** mobile applications
+
+---
+
+## 💬 Let's Connect!
+
+I'm always open to collaborating on exciting projects, discussing security best practices, or exploring new technologies.
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oxstranger21)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+
+</div>
 
 ---
 
 <div align="center">
 
-### 💻 Code • Secure • Innovate 🚀
+### ⚡ Code • Secure • Innovate • Create ⚡
+
+**"The only way to do great work is to love what you do." - Steve Jobs**
+
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=oxstranger21.oxstranger21)
 
 </div>
