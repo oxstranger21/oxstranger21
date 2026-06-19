@@ -2,8 +2,15 @@
 
 # 🔥 Gopi Kumar | OxStranger21
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=4000&color=00D9FF&center=true&vCenter=true&width=1000&lines=Full-Stack+Android+Developer+🚀;Flutter+Developer+[...]
+<div align="center">
 
+### Android Developer • Flutter Developer • Cybersecurity Enthusiast
+
+<img src="https://img.shields.io/badge/Android-Developer-3DDC84?style=for-the-badge&logo=android"/>&nbsp;
+<img src="https://img.shields.io/badge/Cybersecurity-Learner-red?style=for-the-badge&logo=hackaday"/>&nbsp;
+<img src="https://img.shields.io/badge/AI-Student-blue?style=for-the-badge"/>
+
+</div>
 <p>
   <a href="https://github.com/oxstranger21"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
   <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
