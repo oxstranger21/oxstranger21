@@ -117,9 +117,13 @@ Media:     Cloudinary • WebRTC
 
 ---
 
-## 🐍 Contribution Activity
+## 🐍 Contribution Graph
 
-![Snake animation](https://raw.githubusercontent.com/oxstranger21/oxstranger21/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oxstranger21/oxstranger21/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oxstranger21/oxstranger21/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/oxstranger21/oxstranger21/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
@@ -151,6 +155,6 @@ I'm always open to collaborating on exciting projects, discussing security best 
 
 **"The only way to do great work is to love what you do." - Steve Jobs**
 
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=oxstranger21.oxstranger21)
+![Profile Views](https://komarev.com/ghpvc/?username=oxstranger21&label=Profile%20Views&color=0e75b6&style=flat)
 
 </div>
