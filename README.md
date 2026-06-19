@@ -108,10 +108,7 @@
 ![DBMS](https://img.shields.io/badge/DBMS-607D8B?style=for-the-badge&logoColor=white)
 ![OS](https://img.shields.io/badge/Operating_Systems-9C27B0?style=for-the-badge&logoColor=white)
 
-### 🤖 AI & Machine Learning
-![Machine_Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Random_Forest](https://img.shields.io/badge/Random_Forest-4CAF50?style=for-the-badge&logoColor=white)
-![Predictive_Analytics](https://img.shields.io/badge/Predictive_Analytics-673AB7?style=for-the-badge&logoColor=white)
+
 
 ---
 
@@ -156,12 +153,6 @@ Architecture: MVVM • Repository Pattern • Dependency Injection
 
 ---
 
-### 📊 Sales Prediction using Random Forest
-> Machine Learning project for predicting sales trends using Random Forest algorithm
-
-**Features:** Data Analysis • Model Training • Prediction • Visualization
-
----
 
 ## 📊 GitHub Analytics
 
@@ -210,7 +201,6 @@ Architecture: MVVM • Repository Pattern • Dependency Injection
 
 - 🚀 **Advanced Flutter** - Multi-platform development
 - 🏗️ **NestJS** - Scalable backend architecture
-- 🎨 **Jetpack Compose** - Declarative UI toolkit
 - 🐛 **Bug Bounty Hunting** - Security vulnerability identification
 - 🔒 **Application Security (AppSec)** - Secure SDLC
 - 🏛️ **System Design** - Large-scale system architecture
@@ -222,7 +212,6 @@ Architecture: MVVM • Repository Pattern • Dependency Injection
 - 🔒 **Cybersecurity** - Ethical hacking & vulnerability research
 - 📱 **Mobile Development** - Creating engaging apps
 - ⚙️ **Backend Development** - Scalable systems
-- 🤖 **AI Engineering** - Machine learning & predictions
 - 📸 **Photography** - Capturing moments
 - ✈️ **Travel** - Exploring new places
 - 🏏 **Cricket** - Sports enthusiast
