@@ -2,7 +2,7 @@
 
 # 🔥 Gopi Kumar | OxStranger21
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=4000&color=00D9FF&center=true&vCenter=true&width=1000&lines=Full-Stack+Android+Developer+🚀;Flutter+Developer+📱;Cybersecurity+Enthusiast+🔐;Backend+Engineer+⚡;AI+Engineering+Student+🤖;Content+Creator+🎬)](https://github.com/oxstranger21)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=4000&color=00D9FF&center=true&vCenter=true&width=1000&lines=Full-Stack+Android+Developer+🚀;Flutter+Developer+[...]
 
 <p>
   <a href="https://github.com/oxstranger21"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
@@ -25,7 +25,7 @@
 💼 **Full-Stack Developer** | Android • Backend • Security  
 🔐 **Security-First Developer** | AppSec & Ethical Hacking Advocate  
 🎬 **Content Creator** | Photography & Video Editing Enthusiast  
-🚀 **Always Innovating** | Building production-grade applications  
+🚀 **Always Innovating** | Building production-grade applications
 
 ---
 
@@ -44,7 +44,6 @@
 
 ### 👨‍💻 Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -126,7 +125,7 @@
 
 **Tech Stack:**
 ```
-Frontend:    Java • Kotlin • Android SDK • Jetpack Compose • Material Design
+Frontend:    Java • Android SDK • Jetpack Compose • Material Design
 Backend:     Firebase • Firestore • WebRTC
 Services:    Cloudinary • FCM • Authentication
 Architecture: MVVM • Repository Pattern • Dependency Injection
@@ -204,7 +203,6 @@ Architecture: MVVM • Repository Pattern • Dependency Injection
 
 - 🚀 **Advanced Flutter** - Multi-platform development
 - 🏗️ **NestJS** - Scalable backend architecture
-- 🎯 **Kotlin** - Modern Android development
 - 🎨 **Jetpack Compose** - Declarative UI toolkit
 - 🐛 **Bug Bounty Hunting** - Security vulnerability identification
 - 🔒 **Application Security (AppSec)** - Secure SDLC
