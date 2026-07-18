@@ -1,5 +1,8 @@
 <div align="center">
 
+<img width="1274" height="350" alt="1779546029864" src="https://github.com/user-attachments/assets/1a33e3fe-36dc-4d90-b20f-76625884681f" />
+
+
 # 🔥 Gopi Kumar | wthstranger
 
 <div align="center">
@@ -24,16 +27,34 @@
 
 </div>
 
+<table>
+<tr>
+<td width="60%" valign="top">
+
 ## 👋 About Me
 
 > *Building secure, scalable mobile & backend applications with a hacker's mindset. Passionate about turning ideas into reality through code, creativity, and security best practices.*
 
-🎓 **B.Tech CSE (AI)** | GIFT Autonomous, Bhubaneswar  
-💼 **Full-Stack Developer** | Android • Backend • Security  
-🔐 **Security-First Developer** | AppSec & Ethical Hacking Advocate  
-🎬 **Content Creator** | Photography & Video Editing Enthusiast  
+🎓 **B.Tech CSE (AI)** | GIFT Autonomous, Bhubaneswar
+
+💼 **Full-Stack Developer** | Android • Backend • Security
+
+🔐 **Security-First Developer** | AppSec & Ethical Hacking Advocate
+
+🎬 **Content Creator** | Photography & Video Editing Enthusiast
+
 🚀 **Always Innovating** | Building production-grade applications
 
+</td>
+
+<td width="40%" align="center">
+
+<img width="736" height="736" alt="1b9624129039dd502b1e068a6ee37cfd jpg" src="https://github.com/user-attachments/assets/28bee8e8-d4dc-4456-8779-18dd78671d33" />
+
+
+</td>
+</tr>
+</table>
 ---
 
 ## 🎯 What I Do
