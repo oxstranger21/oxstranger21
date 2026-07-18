@@ -1,6 +1,7 @@
 <div align="center">
 
-<img width="1274" height="350" alt="1779546029864" src="https://github.com/user-attachments/assets/1a33e3fe-36dc-4d90-b20f-76625884681f" />
+<img width="1942" height="809" alt="ChatGPT Image Jul 18, 2026, 11_30_00 AM" src="https://github.com/user-attachments/assets/604a3d8e-32f8-4622-afb1-1b521a4e1adb" />
+
 
 
 # 🔥 Gopi Kumar | wthstranger
