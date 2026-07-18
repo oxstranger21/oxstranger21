@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="1942" height="809" alt="ChatGPT Image Jul 18, 2026, 11_30_00 AM" src="https://github.com/user-attachments/assets/604a3d8e-32f8-4622-afb1-1b521a4e1adb" />
+<img width="1694" height="573" alt="ChatGPT Image Jul 18, 2026, 12_12_50 PM" src="https://github.com/user-attachments/assets/a5a4d0a5-edfa-4d69-9cc8-502c189db445" />
 
 
 
@@ -243,6 +243,8 @@ I'm always excited to discuss:
 </div>
 
 ---
+
+
 
 ## 📈 My Development Philosophy
 
