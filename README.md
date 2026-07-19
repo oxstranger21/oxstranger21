@@ -180,17 +180,16 @@ Architecture: MVVM • Repository Pattern • Dependency Injection
 ---
 
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=wthstranger&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wthstranger&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wthstranger&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wthstranger&theme=tokyonight&hide_border=true&background=0d1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wthstranger&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=wthstranger&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
